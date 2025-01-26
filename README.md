@@ -36,7 +36,7 @@ The following structural features are monitored and stabilized during generation
 
 ## Integration with SharpVelvet
 
-Horn Clause Generator is not designed to integrate easily with SharpVelvet. To use this generator within SharpVelvet, future implementation needs to be added on SharpVelvet side.
+Horn Clause Generator is not designed to integrate easily with [SharpVelvet](https://github.com/meelgroup/SharpVelvet). To use this generator within SharpVelvet, future implementation needs to be added on SharpVelvet side.
 
 ## Output Format
 
