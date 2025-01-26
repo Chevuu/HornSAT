@@ -70,6 +70,10 @@ python cnf-fuzz-horn.py --input instances/base.cnf --output generated_instances 
 
 This will generate 100 CNF files with varying Horn-clause fractions in the `generated_instances` folder, based of of the `base.cnf` instance.
 
+## Research Data
+
+Inside our paper **Feature-Driven SAT Instance Generation**, three sets of instances are mentioned in Section 7. These sets ca be found in ./instances folder. In it are 3-CNF instances with 400 clauses and 90 variables, 100 vraibles and 110 variables respectively.
+
 ## Citing
 
 ```
